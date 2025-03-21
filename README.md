@@ -78,7 +78,7 @@ You need to set up the bot in the Discord Developer Portal.
 
 ## 4. Set Up the Python Script
 
-Create a new file called `bot.py` and paste the following code:
+Download the script from the repository or create a new file called `bot.py` and paste the following code:
 
 ```python
 import discord
