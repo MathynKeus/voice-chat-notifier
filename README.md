@@ -186,5 +186,5 @@ This bot is open-source and licensed under the MIT License.
 
 ---
 
-This guide should help even a beginner set up and run the bot successfully! 😊
+This guide should help even a beginner set up and run the bot successfully! 
 
